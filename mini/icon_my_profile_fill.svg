@@ -1,0 +1,35 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3903_44740)">
+<mask id="mask0_3903_44740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 0H0V24H24V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3903_44740)">
+<mask id="mask1_3903_44740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 0H0V24H24V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3903_44740)">
+<mask id="mask2_3903_44740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 0H0V24H24V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3903_44740)">
+<mask id="mask3_3903_44740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 0H0V24H24V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3903_44740)">
+<mask id="mask4_3903_44740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 0H0V24H24V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3903_44740)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5493 20.4142C21.8536 18.3455 23.3032 15.3435 23.3032 12.0031C23.3032 5.7623 18.244 0.703125 12.0032 0.703125C5.7623 0.703125 0.703125 5.7623 0.703125 12.0031C0.703125 15.1235 1.96792 17.9485 4.01281 19.9934C4.15706 20.1376 4.3052 20.278 4.45704 20.4143C6.45774 22.2104 9.10283 23.3031 12.0032 23.3031C14.9035 23.3031 17.5486 22.2104 19.5493 20.4142ZM18.9184 18.8052C17.1588 20.5939 14.7105 21.7031 12.0032 21.7031C9.29577 21.7031 6.84747 20.5939 5.08785 18.8052C6.057 17.0902 7.86026 15.7618 10.0778 15.2645C10.4047 15.1912 10.6513 14.9219 10.6957 14.5899C10.7401 14.2578 10.5729 13.9333 10.2767 13.7767C9.10124 13.1552 8.30315 11.9217 8.30315 10.5031C8.30315 8.45977 9.9597 6.80322 12.0032 6.80322C14.0466 6.80322 15.7032 8.45977 15.7032 10.5031C15.7032 11.9217 14.9051 13.1552 13.7297 13.7767C13.4335 13.9333 13.2663 14.2578 13.3107 14.5899C13.3551 14.9219 13.6017 15.1912 13.9285 15.2645C16.1465 15.7619 17.9492 17.0903 18.9184 18.8052Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3903_44740">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

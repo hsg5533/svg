@@ -1,0 +1,41 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3970_369)">
+<mask id="mask0_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3970_369)">
+<mask id="mask1_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3970_369)">
+<mask id="mask2_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3970_369)">
+<mask id="mask3_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3970_369)">
+<mask id="mask4_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3970_369)">
+<mask id="mask5_3970_369" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+<path d="M17 0H0V17H17V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_3970_369)">
+<path d="M12.5385 1H4.46154C2.54978 1 1 2.54978 1 4.46154V12.5385C1 14.4502 2.54978 16 4.46154 16H12.5385C14.4502 16 16 14.4502 16 12.5385V4.46154C16 2.54978 14.4502 1 12.5385 1Z" stroke="#8C8A8B" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.83594 8.82823L6.70722 11.2102C6.75713 11.2757 6.821 11.3291 6.89418 11.3668C6.96735 11.4044 7.048 11.4253 7.13026 11.4279C7.21304 11.4316 7.29564 11.4174 7.37246 11.3863C7.44927 11.3552 7.51849 11.308 7.5754 11.2477L12.6294 5.91406" stroke="#8C8A8B" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3970_369">
+<rect width="17" height="17" fill="white"/>
+</clipPath>
+</defs>
+</svg>

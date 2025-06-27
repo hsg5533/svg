@@ -1,0 +1,42 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3970_1477)">
+<mask id="mask0_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3970_1477)">
+<mask id="mask1_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3970_1477)">
+<mask id="mask2_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3970_1477)">
+<mask id="mask3_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3970_1477)">
+<mask id="mask4_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3970_1477)">
+<mask id="mask5_3970_1477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<path d="M22 0H0V22H22V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_3970_1477)">
+<path d="M12.4846 11.2154C12.764 11.2195 13.0414 11.168 13.3006 11.0639C13.5599 10.9598 13.7959 10.8052 13.9949 10.609C14.1939 10.4129 14.3519 10.1792 14.4597 9.92144C14.5676 9.6637 14.6231 9.38709 14.6231 9.10769C14.6231 8.5487 14.401 8.0126 14.0057 7.61733C13.6105 7.22206 13.0744 7 12.5154 7H9.26923C9.06522 7 8.86956 7.08104 8.7253 7.2253C8.58104 7.36956 8.5 7.56522 8.5 7.76923V15.4615" stroke="#231F20" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.5154 11.2109H8.5" stroke="#231F20" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 21C16.5228 21 21 16.5228 21 11C21 5.47715 16.5228 1 11 1C5.47715 1 1 5.47715 1 11C1 16.5228 5.47715 21 11 21Z" stroke="#231F20" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3970_1477">
+<rect width="22" height="22" fill="white"/>
+</clipPath>
+</defs>
+</svg>

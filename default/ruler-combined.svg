@@ -1,0 +1,80 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3932_42312)">
+<mask id="mask0_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3932_42312)">
+<mask id="mask1_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3932_42312)">
+<mask id="mask2_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3932_42312)">
+<mask id="mask3_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3932_42312)">
+<mask id="mask4_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3932_42312)">
+<mask id="mask5_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_3932_42312)">
+<mask id="mask6_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask6_3932_42312)">
+<mask id="mask7_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask7_3932_42312)">
+<mask id="mask8_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask8_3932_42312)">
+<mask id="mask9_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask9_3932_42312)">
+<mask id="mask10_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask10_3932_42312)">
+<mask id="mask11_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask11_3932_42312)">
+<mask id="mask12_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask12_3932_42312)">
+<mask id="mask13_3932_42312" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M512 0H0V512H512V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask13_3932_42312)">
+<path d="M0.2 468.9C2.7 493.1 23.1 512 48 512H144H464C490.5 512 512 490.5 512 464V368C512 341.5 490.5 320 464 320H416V400C416 408.8 408.8 416 400 416C391.2 416 384 408.8 384 400V320H320V400C320 408.8 312.8 416 304 416C295.2 416 288 408.8 288 400V320H224V400C224 408.8 216.8 416 208 416C199.2 416 192 408.8 192 400V320H112C103.2 320 96 312.8 96 304C96 295.2 103.2 288 112 288H192V224H112C103.2 224 96 216.8 96 208C96 199.2 103.2 192 112 192H192V128H112C103.2 128 96 120.8 96 112C96 103.2 103.2 96 112 96H192V48C192 21.5 170.5 0 144 0H48C21.5 0 0 21.5 0 48V368V464C0 465.7 0.1 467.3 0.2 468.9Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3932_42312">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>

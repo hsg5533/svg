@@ -1,0 +1,80 @@
+<svg width="640" height="512" viewBox="0 0 640 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3932_32670)">
+<mask id="mask0_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3932_32670)">
+<mask id="mask1_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3932_32670)">
+<mask id="mask2_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3932_32670)">
+<mask id="mask3_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3932_32670)">
+<mask id="mask4_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3932_32670)">
+<mask id="mask5_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_3932_32670)">
+<mask id="mask6_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask6_3932_32670)">
+<mask id="mask7_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask7_3932_32670)">
+<mask id="mask8_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask8_3932_32670)">
+<mask id="mask9_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask9_3932_32670)">
+<mask id="mask10_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask10_3932_32670)">
+<mask id="mask11_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask11_3932_32670)">
+<mask id="mask12_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask12_3932_32670)">
+<mask id="mask13_3932_32670" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="512">
+<path d="M640 0H0V512H640V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask13_3932_32670)">
+<path d="M624.603 325.205C612.303 312.805 594.903 306.005 576.203 308.005C532.903 307.005 526.503 273.105 538.703 209.205C561.503 151.705 523.803 77.7049 451.303 78.4049C373.903 79.1049 369.603 160.405 320.403 160.405C272.303 160.405 266.403 79.1049 189.503 78.4049C116.603 77.6049 79.4029 151.705 102.103 209.205C114.303 273.105 107.903 307.005 64.6029 308.005C43.4029 305.705 27.6029 314.505 11.6029 330.505C-8.29713 350.205 -7.69713 425.305 54.2029 433.105C101.303 439.005 135.803 390.205 115.403 345.305C68.1029 241.605 301.303 239.205 261.903 337.105C261.803 337.205 261.703 337.305 261.603 337.505C234.803 380.305 268.403 434.905 320.403 432.705C372.503 434.805 405.803 380.105 379.203 337.505C379.103 337.305 379.003 337.205 378.903 337.105C339.503 239.205 572.703 241.605 525.403 345.305C520.803 355.305 518.703 366.605 519.703 378.305C524.603 431.705 588.403 452.405 624.603 413.505C642.403 398.705 647.703 347.905 624.603 325.205ZM320.703 306.105H320.103C276.703 306.105 257.303 268.605 257.303 243.305C257.303 208.605 285.503 180.505 320.103 180.505H320.703C355.403 180.505 383.503 208.605 383.503 243.305C383.503 268.305 364.303 306.105 320.703 306.105Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3932_32670">
+<rect width="640" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>

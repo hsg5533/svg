@@ -1,0 +1,80 @@
+<svg width="384" height="512" viewBox="0 0 384 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3932_19459)">
+<mask id="mask0_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3932_19459)">
+<mask id="mask1_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_3932_19459)">
+<mask id="mask2_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_3932_19459)">
+<mask id="mask3_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_3932_19459)">
+<mask id="mask4_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_3932_19459)">
+<mask id="mask5_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_3932_19459)">
+<mask id="mask6_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask6_3932_19459)">
+<mask id="mask7_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask7_3932_19459)">
+<mask id="mask8_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask8_3932_19459)">
+<mask id="mask9_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask9_3932_19459)">
+<mask id="mask10_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask10_3932_19459)">
+<mask id="mask11_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask11_3932_19459)">
+<mask id="mask12_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask12_3932_19459)">
+<mask id="mask13_3932_19459" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="384" height="512">
+<path d="M384 0H0V512H384V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask13_3932_19459)">
+<path d="M64 464C55.2 464 48 456.8 48 448V64C48 55.2 55.2 48 64 48H224V128C224 145.7 238.3 160 256 160H336V448C336 456.8 328.8 464 320 464H64ZM64 0C28.7 0 0 28.7 0 64V448C0 483.3 28.7 512 64 512H320C355.3 512 384 483.3 384 448V154.5C384 137.5 377.3 121.2 365.3 109.2L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64ZM161 289C170.4 279.6 170.4 264.4 161 255.1C151.6 245.8 136.4 245.7 127.1 255.1L79 303C69.6 312.4 69.6 327.6 79 336.9L127 384.9C136.4 394.3 151.6 394.3 160.9 384.9C170.2 375.5 170.3 360.3 160.9 351L129.9 320L160.9 289H161ZM257 255C247.6 245.6 232.4 245.6 223.1 255C213.8 264.4 213.7 279.6 223.1 288.9L254.1 319.9L223.1 350.9C213.7 360.3 213.7 375.5 223.1 384.8C232.5 394.1 247.7 394.2 257 384.8L305 336.8C314.4 327.4 314.4 312.2 305 302.9L257 254.9V255Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3932_19459">
+<rect width="384" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>
